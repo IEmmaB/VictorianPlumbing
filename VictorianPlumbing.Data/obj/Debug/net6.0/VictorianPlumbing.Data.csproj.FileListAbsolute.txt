@@ -1,0 +1,14 @@
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\bin\Debug\net6.0\VictorianPlumbing.Data.deps.json
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\bin\Debug\net6.0\VictorianPlumbing.Data.runtimeconfig.json
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\bin\Debug\net6.0\VictorianPlumbing.Data.dll
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\bin\Debug\net6.0\VictorianPlumbing.Data.pdb
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.csproj.AssemblyReference.cache
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.AssemblyInfoInputs.cache
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.AssemblyInfo.cs
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.csproj.CoreCompileInputs.cache
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.dll
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\refint\VictorianPlumbing.Data.dll
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.pdb
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\VictorianPlumbing.Data.genruntimeconfig.cache
+C:\Users\emmac\source\repos\VictorianPlumbing\VictorianPlumbing.Data\obj\Debug\net6.0\ref\VictorianPlumbing.Data.dll
